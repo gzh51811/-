@@ -1,0 +1,1 @@
+mongoexport -d student -c student -o C:/Users/hasee/Desktop/projectthere/student.json --type json -f
